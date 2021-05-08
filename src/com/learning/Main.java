@@ -1,7 +1,7 @@
-package com.learning.chirag;
+package com.learning;
 
-import com.learning.chirag.search.binarysearch.BinarySearchTree;
-import com.learning.chirag.sort.*;
+import com.learning.search.binarysearch.BinarySearchTree;
+import com.learning.sort.*;
 
 import java.util.*;
 

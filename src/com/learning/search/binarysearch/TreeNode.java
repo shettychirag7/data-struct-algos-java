@@ -1,4 +1,4 @@
-package com.learning.chirag.search.binarysearch;
+package com.learning.search.binarysearch;
 
 public class TreeNode {
 

@@ -1,4 +1,4 @@
-package com.learning.chirag.sort;
+package com.learning.sort;
 
 /**
  * <b>Shell Sort:</b>
